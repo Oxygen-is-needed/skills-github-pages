@@ -4,6 +4,9 @@ title: Welcome to my blog!
 
 # Welcome To This Beautiful Site
 
+
+## Posts
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,3 +14,5 @@ title: Welcome to my blog!
     </li>
   {% endfor %}
 </ul>
+
+Posts ^^^
